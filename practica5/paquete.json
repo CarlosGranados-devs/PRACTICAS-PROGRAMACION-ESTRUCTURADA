@@ -1,0 +1,11 @@
+{
+  "name": "practica-cinco",
+  "version": "1.0.0",
+  "description": "Practica de objetos y objetos anidados en JavaScript",
+  "main": "PracticaCinco.js",
+  "scripts": {
+    "start": "node PracticaCinco.js"
+  },
+  "author": "Ander",
+  "license": "ISC"
+}
